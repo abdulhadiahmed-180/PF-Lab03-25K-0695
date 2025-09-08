@@ -1,11 +1,9 @@
+### My Heading
 # PF-Lab03-25K-0695
-### Heading
 Name: Abdul Hadi Ahmed
 
 
-### Ordered List
-
-About me: 
+### My Ordered List 
 
 -My name is Abdul Hadi Ahmed
 
@@ -13,8 +11,7 @@ About me:
 
 -I enjoy exploring how computers work and how programming can be used to create useful, efficient, and innovative solutions.
 
-### Un ordered List
-Goals: 
+### My Un ordered List
 
 1. My long-term goal is to strengthen my programming skills
 
