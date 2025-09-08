@@ -1,12 +1,12 @@
 # PF-Lab03-25K-0695
 Name: Abdul Hadi Ahmed
 
-About me:
+About me: (### Heading)
 
 My name is Abdul Hadi Ahmed, and I am passionate about technology, problem-solving, and continuous learning. 
 I enjoy exploring how computers work and how programming can be used to create useful, efficient, and innovative solutions.
 
-Programming Interest:
+Programming Interest: (### Ordered List)
 
 I am particularly interested in:
 
@@ -14,7 +14,7 @@ I am particularly interested in:
 
 -Python for its simplicity and versatility in fields like data analysis, automation, and machine learning
 
-Goals:
+Goals: (### Un ordered List)
 
 1. My long-term goal is to strengthen my programming skills
 
