@@ -4,10 +4,13 @@ Name: Abdul Hadi Ahmed
 
 
 ### Ordered List
+
 About me: 
 
 -My name is Abdul Hadi Ahmed
+
 -I am passionate about technology, problem-solving, and continuous learning. 
+
 -I enjoy exploring how computers work and how programming can be used to create useful, efficient, and innovative solutions.
 
 ### Un ordered List
